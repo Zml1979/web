@@ -10,3 +10,12 @@
 
 [Тест-кейсы в формате PDF](https://github.com/user-attachments/files/20306473/G10-2025-05-20.pdf)
 
+### Тестирование модулей корзины, оплаты и оформления заказов
+[Qase Test Run](https://app.qase.io/run/G10/dashboard/77)
+
+[G10-Test+run+2025_05_19 Andrei Zamula.pdf](https://github.com/user-attachments/files/20354356/G10-Test%2Brun%2B2025_05_19.Andrei.Zamula.pdf)
+
+
+[YouTrack](https://artsiomrusau.youtrack.cloud/issue/G10-485/Web-App-Testing-Andrei-Zamula)
+
+[Issues YouTrack Andrei Zamula.xlsx](https://github.com/user-attachments/files/20354402/Issues.xlsx)
