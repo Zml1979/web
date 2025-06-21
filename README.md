@@ -18,4 +18,4 @@
 
 [YouTrack](https://artsiomrusau.youtrack.cloud/issue/G10-485/Web-App-Testing-Andrei-Zamula)
 
-[Issues YouTrack Andrei Zamula.xlsx](https://github.com/user-attachments/files/20354402/Issues.xlsx)
+[Issues YouTrack Andrei Zamula Web.xlsx](https://github.com/user-attachments/files/20846992/Issues.YouTrack.Andrei.Zamula.Web.xlsx)
